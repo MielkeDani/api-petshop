@@ -13,8 +13,10 @@
     "body-parser": "^1.19.1",
     "config": "^3.3.7",
     "express": "^4.17.2",
+    "jsontoxml": "^1.0.1",
     "mysql2": "^2.3.3",
-    "sequelize": "^6.16.1"
+    "sequelize": "^6.16.2",
+    "sequelize-cli": "^6.4.1"
   },
   "devDependencies": {
     "nodeman": "^1.1.2"
