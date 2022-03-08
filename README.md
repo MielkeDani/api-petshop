@@ -4,7 +4,7 @@ Continuando os meus estudos, segui fazendo a formação back-end da alura fazend
 
 Convido você a conhecer meu projeto passando pelos Webservice, usando modelagem MVC. 
 
-E também iniciando a utilizar o POSTAMAN para testar minhas rotas. 
+E também iniciando a utilizar o POSTMAN para testar minhas rotas. 
 
 
 Sinta-se a vontade de me dar alguma dica, crítica entre outros. 
